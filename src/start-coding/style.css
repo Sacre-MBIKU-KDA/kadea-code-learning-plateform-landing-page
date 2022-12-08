@@ -8,7 +8,7 @@
 }
 .start-coding-container {
   display: flex;
-  max-width: 1140px;
+  width: 1140px;
   flex-wrap: wrap;
 }
 
